@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "LINAR";
+const char     CRYPTONOTE_NAME[]                             = "MERLIQ";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ca9a3a029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101ca6bd90678eab09ccb2f2f972707a0cd2ff80348a691d3d5b653c69768169490";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
